@@ -15,10 +15,9 @@ Software Engineering Student • Flutter Mobile Developer
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CuzImMazen&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CuzImMazen&layout=compact&theme=dracula" height="150"/>
-</div>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CuzImMazen&show_icons=true&theme=dracula&cache_seconds=86400" height="150"/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=CuzImMazen&layout=compact&theme=dracula&cache_seconds=86400" height="150"/>
 
 ---
 
