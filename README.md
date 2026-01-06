@@ -14,25 +14,7 @@ Software Engineering Student • Flutter Mobile Developer
 
 ---
 
-## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=CuzImMazen&show_icons=true&theme=dracula" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuzImMazen&layout=compact&theme=dracula" height="150"/>
-
----
-
-## 🛠 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-</div>
 
 ---
 
