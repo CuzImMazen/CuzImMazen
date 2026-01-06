@@ -15,9 +15,6 @@ Software Engineering Student • Flutter Mobile Developer
 ---
 
 
-
----
-
 ## 🌐 Connect With Me
 <div align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
