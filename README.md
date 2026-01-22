@@ -9,8 +9,9 @@ Software Engineering Student • Flutter Mobile Developer
 ## 🚀 About Me
 - 📱 Flutter & Dart mobile developer  
 - 🔥 Firebase, REST APIs  
+- 🧩 BLoC / Cubit state management  
 - 🎓 Software Engineering student  
-- 🌱 Currently improving clean architecture & state management  
+- 🌱 Currently improving clean architecture & scalable state management  
 
 ---
 
