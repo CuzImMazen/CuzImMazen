@@ -7,7 +7,7 @@ Software Engineering Student • Flutter Mobile Developer
 ---
 
 ## 🚀 About Me
-- 📱 Flutter & Dart mobile developer  
+- 📱 Flutter mobile developer  
 - 🔥 Firebase, REST APIs  
 - 🧩 BLoC / Cubit state management  
 - 🎓 Software Engineering student  
