@@ -9,9 +9,9 @@ Software Engineering Student • Flutter Mobile Developer
 ## 🚀 About Me
 - 📱 Flutter mobile developer  
 - 🔥 Firebase, REST APIs
-- 🏗️ MVVM,Singleton Patern, Repository Pattern 
+- 🏗️ MVVM,Repository Pattern 
 - 💉 Dependency injection 
-- 🧩 BLoC / Cubit state management With Freezed ❄️
+- 🧩 BLoC/Cubit state management With Freezed ❄️
 - 🏗️ Design Patterns & Solid Principles 
 - 🎓 Software Engineering student  
 - 🌱 Currently improving clean architecture & Responsive Design 
